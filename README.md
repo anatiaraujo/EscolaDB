@@ -1,2 +1,2 @@
 # EscolaDB
-Algumas queryes para análise de dados de uma escola
+Algumas queries para análise de dados de uma escola.
